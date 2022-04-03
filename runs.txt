@@ -1,0 +1,5 @@
+uthappa 40
+gaikwad 50
+ali     30
+dhoni   20
+jadeja  30
