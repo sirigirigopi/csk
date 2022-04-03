@@ -3,3 +3,5 @@ gaikwad 50
 ali     30
 dhoni   20
 jadeja  30
+bravo   3w
+deshpande 2w
